@@ -29,48 +29,58 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/Enviromate.git
-Install dependencies:
+   ```
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the application:**
+   ```bash
+   python main.py
+   ```
+4. **Using the App:**
+   ```text
+   - Open the application and allow access to your webcam.
+   - Place a waste item in front of the camera.
+   - The app will detect the type of waste and display relevant details.
+   - Click the Locate button to navigate to the nearest recycling center if the item is recyclable.
+   ```
+5. **Contributing:**
+   ```bash
+   # Fork the repository
+   git checkout -b feature-name
+   # Make your changes and commit
+   git commit -m "Add new feature"
+   # Push to the branch
+   git push origin feature-name
+   # Open a pull request
+   ```
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
+---
 
-bash
-Copy code
-python main.py
-Using the App:
+## Screenshots
 
-Open the application and allow access to your webcam.
+<p align="center">
+  <img src="Image/sample.png" width="400">
+</p>
 
-Place a waste item in front of the camera.
+<p align="center">
+  <img src="Image/page1.png" width="400">
+</p>
 
-The app will detect the type of waste and display relevant details.
+*Replace the above images with actual screenshots from your app.*
 
-Click the Locate button to navigate to the nearest recycling center if the item is recyclable.
+---
 
-Screenshots
-<p align="center"> <img src="screenshots/app_screenshot1.png" width="400"> </p> <p align="center"> <img src="screenshots/app_screenshot2.png" width="400"> </p>
-Replace the above images with actual screenshots from your app.
+## License
 
-Contributing
-Contributions are welcome! You can help by improving the model, adding new features, or enhancing the UI.
+Currently, this project does not have a license, meaning **all rights are reserved**. If you want to make it open-source, consider adding an **MIT License** or another license of your choice.
 
-Fork the repository
+---
 
-Create a new branch:
+## Contact
 
-bash
-Copy code
-git checkout -b feature-name
-Make your changes and commit:
+For any questions, feel free to contact:
 
-bash
-Copy code
-git commit -m "Add new feature"
-Push to the branch:
-
-bash
-Copy code
-git push origin feature-name
-Open a pull request
+- **Your Name / GitHub Profile:** [YourGitHub](https://github.com/Dakshin211/)  
+- **Email:** autodesk.dakshin211@gmail.com
