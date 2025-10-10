@@ -68,7 +68,6 @@
   <img src="Image/page1.png" width="400">
 </p>
 
-*Replace the above images with actual screenshots from your app.*
 
 ---
 
@@ -82,5 +81,5 @@ Currently, this project does not have a license, meaning **all rights are reserv
 
 For any questions, feel free to contact:
 
-- **Your Name / GitHub Profile:** [YourGitHub](https://github.com/Dakshin211/)  
+- **Dakshin / GitHub Profile:** [Dakshin211](https://github.com/Dakshin211/)  
 - **Email:** autodesk.dakshin211@gmail.com
