@@ -1,4 +1,4 @@
-# Enviromate – Smart Waste Classifier
+# ♻️ Enviromate – Smart Waste Classifier
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=AI+Powered+Waste+Detection;Smart+Waste+Management+for+a+Greener+Tomorrow;Scan+Classify+Recycle;Building+a+Sustainable+Future+Through+Technology" />
