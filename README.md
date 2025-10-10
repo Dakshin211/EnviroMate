@@ -71,11 +71,6 @@
 
 ---
 
-## License
-
-Currently, this project does not have a license, meaning **all rights are reserved**. If you want to make it open-source, consider adding an **MIT License** or another license of your choice.
-
----
 
 ## Contact
 
