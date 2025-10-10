@@ -1,5 +1,9 @@
 # Enviromate – Smart Waste Classifier
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=AI+Powered+Waste+Detection;Smart+Waste+Management+for+a+Greener+Tomorrow;Scan+Classify+Recycle;Building+a+Sustainable+Future+Through+Technology" />
+</p>
+
 **Enviromate** is a Python desktop application that uses a webcam to scan and classify waste items into categories such as **Paper, Metal, Plastic, E-waste**, and more. It provides information about the waste’s biodegradability, recycling tips, and environmental impact, and helps users locate the **nearest recycling centers** for recyclable items.
 
 ---
